@@ -1,0 +1,392 @@
+# .gitignore
+
+# Ignore operating system files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore compiler output
+*.class
+*.exe
+*.o
+*.obj
+
+# Ignore package files
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Ignore logs
+*.log
+*.tmp
+
+# Ignore node modules
+node_modules/
+
+# Ignore python cache
+__pycache__/
+
+# Ignore java build files
+target/
+build/
+
+# Ignore eclipse files
+.metadata/
+bin/
+
+# Ignore intellij files
+out/
+gen/
+
+# Ignore maven files
+target/
+pom.xml.tag
+
+# Ignore gradle files
+.gradle/
+build/
+out/
+
+# Ignore scala files
+target/
+project/target/
+project/project/
+project/boot/
+project/boot/
+
+# Ignore sbt files
+project/target/
+project/project/
+target/
+lib_managed/
+
+# Ignore bower files
+bower_components/# .gitignore
+
+# Ignore operating system files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore compiler output
+*.class
+*.exe
+*.o
+*.obj
+
+# Ignore package files
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Ignore logs
+*.log
+*.tmp
+
+# Ignore node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore python cache
+__pycache__/
+
+# Ignore java build files
+target/
+build/
+
+# Ignore eclipse files
+.metadata/
+bin/
+
+# Ignore intellij files
+out/
+gen/
+
+# Ignore maven files
+target/
+pom.xml.tag
+
+# Ignore gradle files
+.gradle/
+build/
+out/
+
+# Ignore scala files
+target/
+project/target/
+project/project/
+project/boot/
+project/boot/
+
+# Ignore sbt files
+project/target/
+project/project/
+target/
+lib_managed/
+
+# Ignore bower files
+bower_components/
+
+# Ignore sass cache
+.sass-cache/
+
+# Ignore jekyll files
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/
+
+# Ignore rails files
+log/
+tmp/
+config/environments/*.rb
+config/initializers/*.rb
+config/locales/*.rb
+config/secrets.yml
+db/*.sqlite3
+db/*.sql
+db/schema.rb
+doc/
+lib/tasks/
+log/*.log
+public/uploads/
+public/assets/
+tmp/
+vendor/bundle/
+vendor/cache/
+.sass-cache/
+Capfile
+Gemfile.lock
+config.ru
+coverage/
+lib/**/*.rb
+spec/tmp/
+tmp/restart.txt
+tmp/pids/
+tmp/cache/
+tmp/sockets/
+tmp/wordlist.txt
+tmp/.gitignore
+.ruby-version
+.ruby-gemset
+.rvmrc
+vendor/ruby/
+vendor/bundle/
+.sass-cache/
+.byebug_history
+
+# Ignore python files
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheeldist/
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# Ignore java files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.bz2
+*.rar
+*.7z
+*.apk
+*.aab
+*.aar
+*.dex
+*.odex
+*.oat
+*.art
+*.vdex
+*.vdex
+*.dexs
+*.ap_
+*.apks
+*.apkset
+*.apkm
+*.apks
+*.obb
+*.xapk
+*.apkm
+*.apkset
+*.aab
+
+# Build outputs
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - JetBrains
+.idea/
+*.iml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+*.tmp
+*.orig
+log/*.log
+public/uploads/
+public/assets/
+tmp/
+vendor/bundle/
+vendor/cache/
+.sass-cache/
+ Capfile
+ Gemfile.lock
+ config.ru
+ coverage/
+ lib/**/*.rb
+ spec/tmp/
+ tmp/restart.txt
+ tmp/pids/
+ tmp/cache/
+ tmp/sockets/
+ tmp/wordlist.txt
+ tmp/.gitignore
+.ruby-version
+.ruby-gemset
+.rvmrc
+ vendor/ruby/
+ vendor/bundle/
+.sass-cache/
+.byebug_history
+
+# Ignore python files
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheeldist/
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# Ignore java files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.bz2
+*.rar
+*.7z
+*.apk
+*.aab
+*.aar
+*.dex
+*.odex
+*.oat
+*.art
+*.vdex
+*.vdex
+*.dexs
+*.ap_
+*.apks
+*.apkset
+*.apkm
+*.apks
+*.obb
+*.xapk
+*.apkm
+*.apkset
+*.aab
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - JetBrains
+.idea/
+*.iml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
